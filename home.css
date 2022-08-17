@@ -1,0 +1,340 @@
+body{
+   margin: 0;
+   padding: 0;
+
+}
+
+
+.logo{
+   width: 180px;
+   margin-left: 100px;
+   margin-top: 60px;
+
+   
+}
+
+.container{
+   height: 600px;
+   width: 100%;
+   background-color: rgb(245, 240, 240);
+   
+}
+#bg{
+   height: 582px;
+   width: 545.5px;
+   margin-left: 800px;
+   border-radius: 1px;
+   margin-top: -500px;
+
+  
+}
+
+.bn{
+   margin-left: 500px;
+   margin-top: -40px;
+}
+
+.container h1{
+   font-size: 40px;
+   font-family: sans-serif;
+   margin-left: 100px;
+   margin-top: 60px;
+}
+
+#btn1{
+   font-size: 15px;
+   font-weight: bold;
+    border:none;
+    background: none;
+    margin-left: 60px;
+    
+}
+
+#btn2{
+   font-size: 15px;
+   font-weight: bold;
+   border: none;
+   background: #000;
+   padding: 3px;
+   color: white;
+   height: 40px;
+   width: 110px;
+   margin-left: 15px;
+   margin-top: -10px;
+   
+}
+
+.container p{
+   font-size: 20px;
+   font-family: sans-serif;
+   color: grey;
+   margin-left: 100px;
+}
+
+.outline{
+   border: 1px solid rgb(231, 91, 9);
+   height: 50px;
+   width: 600px;
+   margin-left: 100px;
+   margin-top: 40px;
+ 
+}
+.nt{
+   margin-left: 100px;
+   margin-top:60px;
+   
+}
+.nt h3 {
+   color: rgb(177, 174, 174);
+   font-size: 15px;
+   font-weight: lighter;
+   font-family:sans-serif;
+}
+
+.nt p{
+   font-size: 15px;
+   margin-left:-3px ;
+   font-family: Arial;
+   font-weight: bold;
+   color: rgb(90, 89, 89);
+}
+
+#input{
+   outline: none;
+   border: none;
+   margin-top: 15px;
+   margin-left: 20px;
+   background: none;
+   font-size: 14px;
+   color: rgb(163, 160, 160);
+  
+}
+
+#btn3{
+   margin-left: 3px;
+   border: none;
+   background: none;
+   color: rgb(107, 106, 106);
+   font-size: 14px;
+  
+}
+#btn4{
+   padding: 15px;
+   margin-left: 36px;
+   height: 50px;
+   background-color: rgb(238, 112, 39) ;
+   color: white;
+   font-weight: bold;
+   
+   border: 1px solid  rgb(231, 91, 9);
+   
+}
+
+
+.ab{
+   height: 400px;
+   width: 100%;
+   background-color: rgb(156, 144, 75);
+   margin-top: -20px;
+   display: flex;
+ 
+}
+
+.cd{
+   height: 600px;
+   width: 100%;
+   background-color:#fff;
+   margin-top: -70px;
+
+
+}
+
+.ef{
+   height: 380px;
+   width: 100%;
+   background-color: rgb(20, 20, 19);
+   margin-top: -170px;
+   
+
+}
+
+.ct1 img{
+   height: 200px;
+   width: 100px;
+ 
+   
+}
+
+.ct1{
+   margin-left: 120px;
+   
+   
+}
+.ct2{
+   margin-left: 100px;
+}
+.ct3{
+   margin-left: 100px;
+}
+.ct2 img{
+   height: 200px;
+   width: 100px;
+  
+}
+
+.ct3 img{
+   height: 200px;
+   width: 100px;
+  
+}
+
+.ab h3{
+   color: rgb(235, 231, 231);
+   font-family:calibri;;
+}
+.ab p{
+   color: rgb(58, 43, 2);
+   font-family:calibri;;
+}
+
+.ct4 h1{
+   font-size: 35px;
+   font-family: sans-serif;
+   margin-left: 100px;
+   margin-top: -180px;
+   color: rgb(34, 33, 33);
+  
+}
+.ct4 p{
+   font-size: 18px;
+   font-family: sans-serif;
+   color: rgb(128, 128, 128);
+   margin-left: 100px;
+  
+}
+
+.ct4{
+   margin-top: 300px;
+}
+
+.ct4 img {
+   height: 460px;
+   width: 380px;
+   
+   
+}
+.ct4 .icon1{
+   height: 53px;
+   width: 180px;
+   margin-left: 100px;
+  
+}
+ 
+.ct4 .icon2{
+   height: 53px;
+   width: 180px;
+   margin-left: 25px;
+  
+}
+ 
+
+#i2{
+    margin-top: 130px;
+    margin-left: -30px;
+    margin-bottom: -90px;
+}
+#i1{
+   margin-left: 70px;
+ 
+}
+
+.fr{
+   margin-left: 530px;
+   margin-top: -434px;
+}
+
+.xy{
+   margin-top: 40px;
+   width: 140px;
+   margin-left: 50px;
+}
+
+.ef .z {
+   height: 24px;
+   width: 24px;
+   float: right;
+   padding: 13px;
+  
+}
+.footer p{
+   color:#fff;
+   font-size: 20px;
+   font-family:calibri;
+   text-align: center;
+   margin-top: -38px;
+}
+
+.footer {
+   margin-top: -20px;
+}
+
+.ic{
+   margin-right: 50px;
+   margin-top: -48px;
+} 
+
+hr{
+   border: ipx solid #fff;
+}
+
+span{
+   color: rgb(145, 144, 144);
+}
+
+.t1 p{
+   color: #fff;
+   font-family: Arial;
+   font-size: 14px;
+} .t1{ margin-left: 50px;}
+
+.t1 h1{
+   color: rgb(124, 118, 118);
+   margin-top: 88px;
+   font-size: 15PX;
+   font-family: sans-serif;
+   
+}
+
+.t2 p{
+   color: #fff;
+   font-family: Arial;
+   font-size: 14px;
+  
+} .t2{margin-left: 100px;
+}
+
+.t2 h1{
+   color: rgb(124, 118, 118);
+   margin-top: 88px;
+   font-size: 15PX;
+   font-family: sans-serif;
+}
+.end{
+   display: flex;
+}
+
+hr{
+   border: 1px solid rgba(136, 128, 128, 0.315);
+   width: 93%;
+   border-style: dotted;
+   margin-top: 40px;
+   
+}
+.t1 p:hover{
+    color: rgb(207, 177, 6);
+    cursor: pointer;
+}
+.t2 p:hover{
+   color: rgb(207, 177, 6);
+   cursor: pointer;
+}
